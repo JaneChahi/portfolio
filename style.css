@@ -1,0 +1,29 @@
+.container {
+  width: 300px;
+  height: 300px;
+  border: 1px solid brown;
+  margin: 0 auto;
+}
+
+.cube-container {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.cube {
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+.cube-blue {
+  color: blue;
+  border: 5px solid blue;
+}
+.cube-red {
+  color: red;
+  border: 5px solid red;
+}
+.cube-green {
+  color: green;
+  border: 5px solid green;
+}
